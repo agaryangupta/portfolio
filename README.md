@@ -1,1 +1,1 @@
-https://agaryangupta.github.io/portfolio/index.html
+https://agaryangupta.github.io/portfolio/
